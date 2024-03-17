@@ -2,6 +2,7 @@ Este Script permite reescalar fotos a las propiedades indicadas y reducir su tam
 
 Pon las fotos en una carpeta dentro del directorio donde estan los archivos.py
 
-Corre Reescalar.py y automticamente se creara un directorio llamado igual que la carpeta donde estaban las imagenes con el añadido _reescalado
+Corre Reescalar.py y automticamente se creara un directorio llamado igual que la carpeta donde estaban las imagenes con el añadido _reescalado.
 
-El archivo Renombrar es simplemente para enumerar los archivos dentro de la carpeta con fotos
+El archivo Renombrar es simplemente para enumerar los archivos dentro de la carpeta con fotos.
+
