@@ -6,5 +6,5 @@ Corre Reescalar.py y automticamente se creara un directorio llamado igual que la
 
 El archivo Renombrar es simplemente para enumerar los archivos dentro de la carpeta con fotos.
 
-H
+
 
